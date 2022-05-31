@@ -1,0 +1,25 @@
+"A direção de uma escola, com o papel de cliente do projeto, apresentou a seguinte necessidade a uma empresa de tecnologia:
+
+"Gostaríamos de uma ferramenta educacional para auxiliar no aprendizado de alunos do primeiro ano do ensino médio na disciplina de Matemática. É necessário que a ferramenta seja para dispositivos móveis, tanto para Android quando iOS. Os professores da disciplina de Matemática precisam acompanhar (visualizar) o desempenho de todos os alunos que realizam as atividades na ferramenta. É necessário que o aluno também tenha acesso ao seu desempenho. A ferramenta deve abordar quatro conteúdos, onde cada conteúdo possui duas atividades. Os alunos podem escolher qualquer um dos quatro conteúdos para realizar as atividades. Antes deles selecionarem os conteúdos para realizar as atividades é necessário que eles informem o nome e escolham um avatar. Esse avatar irá acompanhar o aluno durante todas as atividades com o intuito de deixar o aprendizado mais personalizado. Tanto o aluno quanto o professor precisam estar autenticados para realizar as ações na ferramenta"."
+
+1. Identificar os requisitos funcionais do sistema;
+
+ 1.Criação de conta;
+
+2. Personalização de conta;
+
+             3. Criação de salas ou turmas;(tendo em mente que o criador seria o professor de cada matéria e ele teria acesso aos trabalhos para dar nota aos alunos e etc.);
+
+4. Modo de Edição para que os professores adicione conteúdos nas salas;
+
+5. Uso de ferramentas didáticas online para concluir atividades dos conteúdos;
+
+6. Verificação de conta( Por Emai, Telefone e etc não foi especificado no enunciadol);
+
+ 
+
+2. Identificar os usuários do sistema;
+
+Professores;
+
+Alunos;
